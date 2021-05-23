@@ -1,0 +1,7 @@
+<html>
+	<script>
+		alert("Hey what's up dog!");
+		document.write("HELLOOOOOO");
+	</script>
+
+</html>
